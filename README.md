@@ -17,4 +17,4 @@
 
 8. git remote -v:查看
 
-9. 
+9. git push 地址名 分支名
