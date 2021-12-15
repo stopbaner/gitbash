@@ -18,3 +18,13 @@
 8. git remote -v:查看
 
 9. git push 地址名 分支名
+
+10. git branch 分支名：创建分支
+
+11. git checkout 分支名:切换到该分支
+
+12. git fetch 本地仓库分支名 远程仓库分支名
+
+13. git pull 本地仓库分支名 远程仓库分支名
+
+14. git diff 本地仓库分支名/远程仓库分支名
