@@ -29,3 +29,7 @@
 
 14. git diff 本地仓库分支名/远程仓库分支名
 
+15. git config --global user.name "GitHub用户名"
+    git config --global user.email "GitHub邮箱地址"
+
+
