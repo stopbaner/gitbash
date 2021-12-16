@@ -32,4 +32,12 @@
 15. git config --global user.name "GitHub用户名"
     git config --global user.email "GitHub邮箱地址"
 
+---
+### ide配置
+1. 常用maven插件：maven helper,eclipse-fomatter,
 
+2. eclipse快捷键：ctrl+d,ctrl+q：跳到上一个更改的位置，ctrl+h,ctrl+shift+r:寻找文件
+
+3. 配置maven本地路径
+
+4. 不能使用windows自带记事本
