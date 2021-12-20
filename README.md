@@ -40,6 +40,6 @@
 
 2. eclipse快捷键：ctrl+d,ctrl+q：跳到上一个更改的位置，ctrl+h,ctrl+shift+r:寻找文件
 
-3. 配置maven本地路径
+3. 配置maven本地路径，conf文件夹下setting文件中配置mirror
 
 4. 不能使用windows自带记事本
