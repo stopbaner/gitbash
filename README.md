@@ -1,7 +1,7 @@
 ## gitbash常用命令
 
 ---
-1. 创建ssh密钥：ssh-keygen
+1. cd .ssh查看有没有创建ssh秘钥，创建ssh密钥：ssh-keygen，将公钥添加到版本控制工具中
 
 2. 进入home目录： cd ~
 
